@@ -1,4 +1,4 @@
-const API_URL = 'https://task-c15h.onrender.com'; 
+const API_URL = 'https://task-c15h.onrender.com/tasks'; 
 
 document.getElementById('task-form').addEventListener('submit', async function (e) {
   e.preventDefault();
